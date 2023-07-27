@@ -1,4 +1,4 @@
-# desafi_de_projeto_Sistema_bancario_python
+# desafio_de_projeto_Sistema_bancario_python
 Repositório do Desafio de Projeto - Criando um Sistema Bancário com Python
 
 # Sistema Bancário em Python
