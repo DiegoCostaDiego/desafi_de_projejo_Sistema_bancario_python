@@ -1,5 +1,5 @@
 # desafio_de_projeto_Sistema_bancario_python
-Repositório do Desafio de Projeto - Criando um Sistema Bancário com Python
+Repositório do Desafio de Projeto - Criando um Sistema Bancário com Python - **Potência Tech powered by iFood | Ciência de Dados**
 
 # Sistema Bancário em Python
 
